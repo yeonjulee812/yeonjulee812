@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <div align="center">
 안녕하세요! </br>
 프론트와 백엔드 모두 관심있는 신입개발자입니다. </br>
-현재 파이썬을 활용한 웹개발을 공부중입니다.</br>
+현재 SSAFY에서 파이썬을 활용한 웹개발을 공부중입니다.</br>
 
 </div>
 
