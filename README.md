@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 <h3 align="center">🌱 Come visit me! </h3>
 <div align="center">
   <a href="https://github.com/yeonjulee812?tab=repositories" target="_blank"><img src="https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white"/></a>
-  <a href="https://www.instagram.com/yeonjuleeh" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white"/></a>
+  <a href="https://www.instagram.com/yeonju_812" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white"/></a>
   <a href="mailto:yj.thexplorer@gmail.com" target="_blank"><img src="https://img.shields.io/badge/yj.thexplorer@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
 
 </div>
