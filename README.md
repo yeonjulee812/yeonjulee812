@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <h3 align="center">🙌 About Me </h3>
 <div align="center">
 안녕하세요! </br>
-현재 SSAFY에서 웹개발을 공부중인 신입개발자 이연주 입니다. 🐥 </br>
+현재 SSAFY에서 웹개발을 공부 중인 신입개발자 이연주 입니다. 🐥 </br>
 펭귄의 섬과 같은 힐링게임을 좋아하고 오디오북을 즐겨 듣습니다. </br>
 
  
