@@ -43,16 +43,13 @@ Here are some ideas to get you started:
 
 </div>
 
-<h3 align="center">👩‍💻 My Github Stats </h3>
+<h3 align="center">👩‍💻 Stats & Ranking </h3>
 <div align="center">
 
-![stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=yeonjulee812&&show_icons=true&theme=vue)
-</div>
+| `Stats` | `Algorithm` |
+|:---|:---|
+| ![stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=yeonjulee812&&show_icons=true&theme=vue)  | [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=legrandreve)](https://solved.ac/legrandreve/)  |
 
-<h3 align="center">🥇 Baekjoon solved rank </h3>
-<div align="center">
-  
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=legrandreve)](https://solved.ac/legrandreve/)
 </div>
 
 <h3 align="center">🌱 Come visit me! </h3>
