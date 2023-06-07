@@ -14,19 +14,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h3 align="center">🙌 About Me </h3>
-<!-- <div align="center"> -->
-<!-- 안녕하세요! </br> -->
-<!-- 현재 SSAFY에서 웹개발을 공부 중인 신입개발자 이연주 입니다. 🐥 </br> -->
+<div align="center">
+안녕하세요. </br>
+웹 개발자 이연주 입니다. </br> 
+제 개인 공부 및 각종 프로젝트 기록이 담겨 있는 </br>
+깃허브 페이지에 오신 것을 환영합니다! </br>
 <!-- 펭귄의 섬과 같은 힐링게임을 좋아하고 오디오북을 즐겨 듣습니다. </br> -->
 
  
   <h3 align="center">📚 Education </h3>
 
-
 |프로그램명|교육기관|기간|
 |-|-|-|
 |파이썬 기반의 빅데이터 방법론을 활용한 데이터 분석과정|청년취업사관학교|2022.09 ~ 2022.12|
-|CS50 2022(David J. Malan)|Harvard University|2023.01 ~|
+|CS50 2022(David J. Malan) [Online]|Harvard University|2023.01 ~2023.02|
 <!-- |삼성 청년 SW 아카데미(SSAFY)|삼성전자|2023.01 ~ 2023.12(진행중)| -->
 
 
@@ -57,6 +58,6 @@ Here are some ideas to get you started:
 <div align="center">
   <a href="https://github.com/yeonjulee812?tab=repositories" target="_blank"><img src="https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white"/></a>
   <a href="https://www.instagram.com/yeonju_812" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white"/></a>
-  <a href="mailto:yj.thexplorer@gmail.com" target="_blank"><img src="https://img.shields.io/badge/yj.thexplorer@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:yjleeyjlee9@gmail.com" target="_blank"><img src="https://img.shields.io/badge/yj.thexplorer@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
 
 </div>
